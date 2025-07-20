@@ -55,7 +55,7 @@ This project is a simple Task Manager API built with Laravel. It allows users to
 
 Below is the Entity Relationship (ER) diagram for the Task Manager database structure:
 
-![ER Diagram](er-diagram.png)
+![ER Diagram](/er-diagram.png)
 
 > The diagram shows the relationship between the `User` and `Task` tables.
 >
